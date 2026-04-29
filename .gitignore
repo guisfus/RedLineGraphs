@@ -1,0 +1,8 @@
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
+
+# Python/editor cache
+__pycache__/
+.cache/
