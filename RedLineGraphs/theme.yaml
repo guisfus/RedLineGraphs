@@ -89,7 +89,7 @@ static_text:
   TEXT_ETHERNET:
     TEXT: Ethernet
     X: 8
-    Y: 296
+    Y: 298
     FONT: jetbrains-mono/JetBrainsMono-Bold.ttf
     FONT_SIZE: 13
     FONT_COLOR: 255, 0, 0
@@ -98,7 +98,7 @@ static_text:
   TEXT_ETHERNET_UP:
     TEXT: U
     X: 95
-    Y: 296
+    Y: 298
     FONT: jetbrains-mono/JetBrainsMono-Bold.ttf
     FONT_SIZE: 13
     FONT_COLOR: 255, 0, 0
@@ -107,7 +107,7 @@ static_text:
   TEXT_ETHERNET_DOWN:
     TEXT: D
     X: 205
-    Y: 296
+    Y: 298
     FONT: jetbrains-mono/JetBrainsMono-Bold.ttf
     FONT_SIZE: 13
     FONT_COLOR: 255, 0, 0
@@ -366,7 +366,7 @@ STATS:
         FORMAT: short
         SHOW: True
         X: 425
-        Y: 296
+        Y: 298
         FONT: jetbrains-mono/JetBrainsMono-Bold.ttf
         FONT_SIZE: 13
         FONT_COLOR: 255, 0, 0
