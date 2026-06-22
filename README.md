@@ -88,7 +88,6 @@ INTERVAL: 1
 ## Notes
 
 - This theme uses the JetBrains Mono font path included in `turing-smart-screen-python`: `jetbrains-mono/JetBrainsMono-Bold.ttf`.
-- Do not copy font files into this repository unless you are sure the license allows redistribution.
 - If your network values do not appear, check your network interface selection in `configure.py`.
 
 ## License
